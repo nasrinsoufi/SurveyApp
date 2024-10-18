@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+  .app {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 4px 15px 15px rgba(0, 0, 0, 0.1);
+    background:linear-gradient(to bottom, #3498db, #2ecc71);
+    margin-top: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 15px;
+  }
+  
+  
+

@@ -1,0 +1,30 @@
+
+  .form-check-label{
+    margin-right: 5px;
+  }
+
+  .label-area{
+    margin-right: 10px;
+  }
+
+  .radio-area{
+    margin-bottom: 30px;
+  }
+
+  .question-text h4{
+    padding-bottom: 17px;
+    text-justify:distribute;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fade-in {
+    animation: fadeIn 2s ease-in-out;
+  }
